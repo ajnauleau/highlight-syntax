@@ -1,5 +1,5 @@
 {
-  "name": "high-light-syntax",
+  "name": "highlight-html-syntax",
   "version": "1.0.0",
   "description": "Syntax Highlighter for HTML code",
   "main": "index.js",

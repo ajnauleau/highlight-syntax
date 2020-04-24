@@ -1,0 +1,25 @@
+{
+  "name": "highlight-syntax",
+  "version": "1.0.0",
+  "description": "Syntax Highlighter for HTML code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajnauleau/highlight-syntax.git"
+  },
+  "keywords": [
+    "syntax",
+    "highlighter",
+    "html",
+    "code"
+  ],
+  "author": "ajnauleau <antoine@nauleau.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajnauleau/highlight-syntax/issues"
+  },
+  "homepage": "https://github.com/ajnauleau/highlight-syntax#readme"
+}

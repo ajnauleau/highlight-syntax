@@ -62,7 +62,20 @@ Turns into ->
 ```
 
 Which looks like  this
-<link rel="stylesheet" href="./syntax.css">
+<style>
+.method {
+    color: #00A2CD;
+}
+
+.global {
+    color: #db9114;
+}
+
+.string {
+    color: #02C1A7;
+}
+</style>
+
 <span class="method">&lt;form<span class="method">&gt;</span></span> <span class="global">
         <span class="method">&lt;input</span> type=<span class="string">"text"</span> placeholder</span>=<span class="string">"John Doe"</span><span class="method">/&gt;</span>
 <span class="method">&lt;/form<span class="method">&gt;</span></span>
